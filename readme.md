@@ -1,4 +1,4 @@
-Student Management System (Kotlin)
+## Student Management System (Kotlin)
 
 How to run:
 1. Download ZIP project or clone the project using 'git clone https://github.com/Lattuse/Assignment_2_Native.git'
